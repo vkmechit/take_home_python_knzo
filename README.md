@@ -15,8 +15,7 @@ To get started with this project, follow these steps:
 git clone https://github.com/vkmechit/take_home_python_knzo.git
 
 
-2. Navigate to the project directory:
-cd take-home-test-kenzo-security
+2. Navigate to the project directory
 
 
 ## Usage

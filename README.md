@@ -24,25 +24,33 @@ cd take-home-test-kenzo-security
 To run the script, follow these steps:
 
 1. Create a virtual environment:
+```
 python -m venv venv
+```
 
 
-2. Activate the virtual environment:
+3. Activate the virtual environment:
    - On Windows:
      ```
-venv\Scripts\activate
+     venv\Scripts\activate
+     ```
 
    - On macOS and Linux:
      ```
-source venv/bin/activate
+     source venv/bin/activate
+     ```
 
 
-3. Install dependencies:
+4. Install dependencies:
+```
 pip install pandas
+```
 
 
-4. Run the main Python script:
+6. Run the main Python script:
+```
 python main.py
+```
 
 
 ## Sample Input and Output Files
@@ -59,7 +67,3 @@ The script uses a configuration file named `config.json`. Users can update this 
 
 This project supports Python 3.7 and above. We recommend using Python 3.8 or 3.9 for optimal performance.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-```
